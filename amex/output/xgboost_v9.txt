@@ -1,0 +1,80 @@
+#########################
+### Fold 1
+### Train size 367130 Valid size 91783
+### Training with 100% fold data...
+#########################
+[0]	train-logloss:0.66205	valid-logloss:0.66212
+[250]	train-logloss:0.21820	valid-logloss:0.22479
+[500]	train-logloss:0.20817	valid-logloss:0.21999
+[750]	train-logloss:0.20156	valid-logloss:0.21852
+[1000]	train-logloss:0.19595	valid-logloss:0.21785
+[1250]	train-logloss:0.19084	valid-logloss:0.21740
+[1500]	train-logloss:0.18608	valid-logloss:0.21713
+[1715]	train-logloss:0.18214	valid-logloss:0.21703
+Kaggle Metric = 0.7912581202891906 
+
+#########################
+### Fold 2
+### Train size 367130 Valid size 91783
+### Training with 100% fold data...
+#########################
+[0]	train-logloss:0.66206	valid-logloss:0.66201
+[250]	train-logloss:0.21867	valid-logloss:0.22261
+[500]	train-logloss:0.20872	valid-logloss:0.21806
+[750]	train-logloss:0.20207	valid-logloss:0.21660
+[1000]	train-logloss:0.19640	valid-logloss:0.21592
+[1250]	train-logloss:0.19130	valid-logloss:0.21561
+[1500]	train-logloss:0.18651	valid-logloss:0.21549
+[1553]	train-logloss:0.18555	valid-logloss:0.21552
+Kaggle Metric = 0.7948827110361802 
+
+#########################
+### Fold 3
+### Train size 367130 Valid size 91783
+### Training with 100% fold data...
+#########################
+[0]	train-logloss:0.66204	valid-logloss:0.66214
+[250]	train-logloss:0.21795	valid-logloss:0.22581
+[500]	train-logloss:0.20785	valid-logloss:0.22129
+[750]	train-logloss:0.20119	valid-logloss:0.21993
+[1000]	train-logloss:0.19551	valid-logloss:0.21936
+[1250]	train-logloss:0.19039	valid-logloss:0.21907
+[1500]	train-logloss:0.18559	valid-logloss:0.21883
+[1750]	train-logloss:0.18092	valid-logloss:0.21871
+[1810]	train-logloss:0.17985	valid-logloss:0.21875
+Kaggle Metric = 0.7925045387655741 
+
+#########################
+### Fold 4
+### Train size 367131 Valid size 91782
+### Training with 100% fold data...
+#########################
+[0]	train-logloss:0.66204	valid-logloss:0.66218
+[250]	train-logloss:0.21762	valid-logloss:0.22603
+[500]	train-logloss:0.20764	valid-logloss:0.22182
+[750]	train-logloss:0.20089	valid-logloss:0.22042
+[1000]	train-logloss:0.19524	valid-logloss:0.21982
+[1250]	train-logloss:0.19010	valid-logloss:0.21945
+[1500]	train-logloss:0.18521	valid-logloss:0.21935
+[1750]	train-logloss:0.18061	valid-logloss:0.21921
+[2000]	train-logloss:0.17626	valid-logloss:0.21920
+[2028]	train-logloss:0.17577	valid-logloss:0.21925
+Kaggle Metric = 0.7892427797605408 
+
+#########################
+### Fold 5
+### Train size 367131 Valid size 91782
+### Training with 100% fold data...
+#########################
+[0]	train-logloss:0.66208	valid-logloss:0.66200
+[250]	train-logloss:0.21869	valid-logloss:0.22308
+[500]	train-logloss:0.20863	valid-logloss:0.21845
+[750]	train-logloss:0.20197	valid-logloss:0.21694
+[1000]	train-logloss:0.19624	valid-logloss:0.21621
+[1250]	train-logloss:0.19108	valid-logloss:0.21571
+[1500]	train-logloss:0.18625	valid-logloss:0.21548
+[1697]	train-logloss:0.18260	valid-logloss:0.21541
+Kaggle Metric = 0.794612955825927 
+
+#########################
+OVERALL CV Kaggle Metric = 0.7924479512873005

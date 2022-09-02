@@ -3,4 +3,6 @@
 .python-version
 .vscode/settings.json
 
+__pycache__
+
 work/
